@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @garesuta
-- 👀 I’m interested in Android, Ios, Cryptocurrency, ML, AI, Space technology and Quantum technology. 
-- 🌱 I’m currently learning ML and Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Contact me as garesuta@gmail.com
+- 👀 I’m interested in a full-stack developer or software engineering career.
+- 🏄 I think my specialized tech stack is Express, React, Next, Nest, Node and Go
+- 🌱 I’m currently learning Angular, .NET, and much more!
+- 📫 How to reach me ... Contact me at garesuta@gmail.com see ya!
 
 <!---
 garesuta/garesuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
